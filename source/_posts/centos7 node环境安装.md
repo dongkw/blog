@@ -1,5 +1,5 @@
 ---
-title: docker + hexo 配置
+title: centos7 node环境安装
 date: 2109-12-30
 categories:
 - 服务配置
