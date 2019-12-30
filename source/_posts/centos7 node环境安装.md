@@ -17,7 +17,7 @@ tags:
 > NVM（Node version manager）顾名思义，就是Node.js的版本管理软件，可以轻松的在Node.js各个版本间切换，项目源码GitHub
 
 
-## 1.下载并安装NVM脚本
+## 下载并安装NVM脚本
 
 ```
 curl https://raw.githubusercontent.com/creationix/nvm/v0.13.1/install.sh | bash
@@ -25,7 +25,7 @@ curl https://raw.githubusercontent.com/creationix/nvm/v0.13.1/install.sh | bash
 source ~/.bash_profile
 ```
 
-## 2. 列出所需要的版本
+## 列出所需要的版本
 
 ```
 nvm list-remote
@@ -50,13 +50,13 @@ nvm list-remote
      ...
 ```
 
-## 3. 安装相应的版本
+## 安装相应的版本
 
 ```
 nvm install v11.0.0
 
 ```
-## 4. 查看已安装的版本
+## 查看已安装的版本
 
 ```
 $ nvm list
@@ -64,7 +64,7 @@ $ nvm list
       system
 ```
 
-## 5.切换版本
+## 切换版本
 
 nvm use v11.0.0
 
