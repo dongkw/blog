@@ -106,5 +106,3 @@ public class AuthConfig extends ResourceServerConfigurerAdapter {
 }
 
 ```
-
-加了点东西自动更新//////
