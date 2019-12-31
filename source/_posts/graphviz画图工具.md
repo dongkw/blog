@@ -67,9 +67,10 @@ dot demo1.dot -o demo1.png -Tpng
 3. edge[]设置当前大括号下线段属性
 4. 每个节点可以单独设置属性   B[label="B项目",color="green",style="filled",shape="diamond"]
 5. 每条联系也可以单独设置属性E->A[label="失败",style="dashed"]
-6. shape="diamond"[更多形状](https://graphviz.gitlab.io/_pages/doc/info/shapes.html)
-7. color="green"[更多颜色](https://graphviz.gitlab.io/_pages/doc/info/colors.html)
-8. 到这日常的流程图就没问题了，更多请看[官方文档](http://www.graphviz.org/documentation/)
+6. E->F[更多语法](https://graphviz.gitlab.io/_pages/doc/info/lang.html)
+7. shape="diamond"[更多形状](https://graphviz.gitlab.io/_pages/doc/info/shapes.html)
+8. color="green"[更多颜色](https://graphviz.gitlab.io/_pages/doc/info/colors.html)
+9. 到这我认为流程图就没问题了，更多请看[官方文档](http://www.graphviz.org/documentation/)
 ```
 digraph image{
   subgraph cluster_cd{
