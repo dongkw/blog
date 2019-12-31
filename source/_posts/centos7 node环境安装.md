@@ -66,8 +66,7 @@ $ nvm list
 
 ## 切换版本
 
+```
 nvm use v11.0.0
+```
 
-
-
-asdfas 
