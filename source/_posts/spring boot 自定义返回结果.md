@@ -9,14 +9,14 @@ tags:
 
 ---
 
-> [项目地址](https://github.com/dongkw/spring-demo/tree/master/util)
-
-<!--more-->
+ [项目地址](https://github.com/dongkw/spring-demo/tree/master/util)
 
 ### 1.统一返回值
 
-
 >java序列化 和json序列化
+
+<!--more-->
+
 ```
 package xyz.jecy.util.response;
 
