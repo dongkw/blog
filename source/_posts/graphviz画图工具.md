@@ -97,6 +97,33 @@ dot demo2.dot -o demo2.png -Tpng
 ![demo2.png](https://jecy.xyz/web/images/demo2.png)
 
 
+### demo3
+
+```
+digraph image{
+
+node[shape=record]
+edge[arrowhead = "empty"]
+
+Car[label="{Car| {attr|{String color | Wheel wheel} }| run()}"]
+
+  subgraph clusterSub{
+    bgcolor=yellow
+    Bike[label="{Bike| |slow() }"]
+    Audi[label="{Audi| |fast() }"]
+  }
+
+  Bike -> Car
+  Audi ->Car
+
+}
+
+```
+执行命令
+```
+dot demo3.dot -o demo3.png -Tpng
+```
+![demo2.png](https://jecy.xyz/web/images/demo3.png)
 ## 个人体会
 
 graphviz对我的最大意义就是理清逻辑,比如我知道A与B有关，B与C有关,就会自动生成A与C的关系。如果逻辑复杂只需要抽象出一个个的对象，然后分别想清楚某几个对象间的关系，就会自动生成全部的逻辑流程。
