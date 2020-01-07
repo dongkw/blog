@@ -1,7 +1,7 @@
 ---
 title: spring+gradle多模块项目配置
 thumbnail: https://jecy.xyz/web/images/keng.png
-date: 2109-12-11
+date: 2019-12-11
 categories:
 - java后端
 tags:

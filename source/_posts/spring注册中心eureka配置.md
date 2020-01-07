@@ -1,7 +1,7 @@
 ---
 title: spring注册中心eureka配置
 thumbnail: https://jecy.xyz/web/images/eureka.jpeg
-date: 2109-12-02
+date: 2019-12-02
 categories:
 - java后端
 tags:

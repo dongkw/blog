@@ -1,7 +1,7 @@
 ---
 title: spring注册中心config配置
 thumbnail: https://jecy.xyz/web/images/config.jpg
-date: 2109-12-05
+date: 2019-12-05
 categories:
 - java后端
 tags:

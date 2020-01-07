@@ -1,7 +1,7 @@
 ---
 title: gateway 服务网关配置
 thumbnail: https://jecy.xyz/web/images/gateway.png
-date: 2109-12-18
+date: 2019-12-18
 categories:
 - java后端
 tags:

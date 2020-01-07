@@ -1,7 +1,7 @@
 ---
 title: idea搭建spring boot gradle多模块项目
 thumbnail: https://jecy.xyz/web/images/idea.jpg
-date: 2109-11-29
+date: 2019-11-29
 categories:
 - java后端
 tags:

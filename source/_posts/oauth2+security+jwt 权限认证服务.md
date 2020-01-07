@@ -1,7 +1,7 @@
 ---
 title: oauth2+security+jwt 权限认证服务
 thumbnail: https://jecy.xyz/web/images/auth.jpeg
-date: 2109-12-25
+date: 2019-12-25
 categories:
 - java后端
 tags:

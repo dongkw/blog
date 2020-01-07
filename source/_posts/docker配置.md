@@ -1,6 +1,6 @@
 ---
 title: docker + hexo 配置
-date: 2109-11-24
+date: 2019-11-24
 categories:
 - 服务配置
 tags:

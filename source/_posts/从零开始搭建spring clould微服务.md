@@ -1,7 +1,7 @@
 ---
 title: 从零开始搭建spring cloud微服务思路
 thumbnail: https://jecy.xyz/web/images/springcloud.png
-date: 2109-11-28
+date: 2019-11-28
 categories:
 - java后端
 tags:
