@@ -1,6 +1,6 @@
 ---
 title: idea搭建spring boot gradle多模块项目
-thumbnail: https://jecy.xyz/web/images/idea.jpg
+thumbnail: /images/idea.jpg
 date: 2019-11-29
 categories:
 - java后端
@@ -18,28 +18,28 @@ tags:
 
 <!--more-->
 
-![](https://jecy.xyz/web/images/new/1.png)
+![](/images/new/1.png)
 
-![](https://jecy.xyz/web/images/new/3.png)
+![](/images/new/3.png)
 
-![](https://jecy.xyz/web/images/new/4.png)
+![](/images/new/4.png)
 
 2. 删掉多余的src目录
 
-![](https://jecy.xyz/web/images/new/5.png)
+![](/images/new/5.png)
 
 3. 创建子模块
 
-![](https://jecy.xyz/web/images/new/6.png)
+![](/images/new/6.png)
 
-![](https://jecy.xyz/web/images/new/7.png)
+![](/images/new/7.png)
 
-![](https://jecy.xyz/web/images/new/8.png)
+![](/images/new/8.png)
 
-![](https://jecy.xyz/web/images/new/9.png)
+![](/images/new/9.png)
 
 4. 删掉子模块里多余内容
-![](https://jecy.xyz/web/images/new/11.png)
+![](/images/new/11.png)
 
 5. 修改子模块里build.gradle文件
 ``` 
@@ -136,7 +136,7 @@ subprojects {
 ```
 > 失败了 但是因为eureka 不需要test，而且也没有引对应test的包 删掉
 
-![](https://jecy.xyz/web/images/new/13.png)
+![](/images/new/13.png)
 
 
 8. 继续 `gradle clean build`

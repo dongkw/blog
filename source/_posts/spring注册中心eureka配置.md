@@ -1,6 +1,6 @@
 ---
 title: spring注册中心eureka配置
-thumbnail: https://jecy.xyz/web/images/eureka.jpeg
+thumbnail: /images/eureka.jpeg
 date: 2019-12-02
 categories:
 - java后端
@@ -78,6 +78,6 @@ eureka:
 
 4. 点下启动按钮
 
-![](https://jecy.xyz/web/images/14.png)
+![](/images/14.png)
 
 > `http://localhost:8761/` 应该启动完了

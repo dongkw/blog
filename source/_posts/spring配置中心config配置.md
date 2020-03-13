@@ -1,6 +1,6 @@
 ---
 title: spring注册中心config配置
-thumbnail: https://jecy.xyz/web/images/config.jpg
+thumbnail: /images/config.jpg
 date: 2019-12-05
 categories:
 - java后端
@@ -19,7 +19,7 @@ tags:
 
 <!--more-->
 > eureka启动后有这个提示，要加个config项目
-![](https://jecy.xyz/web/images/15.png)
+![](/images/15.png)
 
 
 1. 引用个依赖

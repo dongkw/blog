@@ -1,6 +1,6 @@
 ---
 title: spring+gradle多模块项目配置
-thumbnail: https://jecy.xyz/web/images/keng.png
+thumbnail: /images/keng.png
 date: 2019-12-11
 categories:
 - java后端
@@ -32,7 +32,7 @@ tags:
 3. 可执行java程序
 ```
 
-![](https://jecy.xyz/web/images/16.png)
+![](/images/16.png)
 
 ## build.gradle 文件
 

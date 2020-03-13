@@ -1,6 +1,6 @@
 ---
 title: oauth2+security+jwt 权限认证服务
-thumbnail: https://jecy.xyz/web/images/auth.jpeg
+thumbnail: /images/auth.jpeg
 date: 2019-12-25
 categories:
 - java后端
@@ -19,7 +19,7 @@ tags:
 ## 思路
 > oauth2的流程  用graphviz生成的
 
-![](https://jecy.xyz/web/images/test1.png)
+![](/images/test1.png)
 
  
 

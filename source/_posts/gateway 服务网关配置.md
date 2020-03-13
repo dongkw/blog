@@ -1,6 +1,6 @@
 ---
 title: gateway 服务网关配置
-thumbnail: https://jecy.xyz/web/images/gateway.png
+thumbnail: /images/gateway.png
 date: 2019-12-18
 categories:
 - java后端
@@ -15,7 +15,7 @@ tags:
 
 ## gateway工作原理
 
-![](https://jecy.xyz/web/images/17.png)
+![](/images/17.png)
 
 ## gateway功能
 
