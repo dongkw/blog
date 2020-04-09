@@ -1,5 +1,5 @@
 ---
-title: gradle自定义插件（java语言）
+title: gradle自定义插件（初见）
 date: 2020-03-25
 categories:
 - java
@@ -218,4 +218,5 @@ plugins {
 然后build成功就可以在idea里面看到自己定义的插件了
 
 ![](/images/ideagradle.png)
+
 
