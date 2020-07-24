@@ -63,7 +63,7 @@ public class LatestArtifactVersion extends DefaultTask {
 }
 ```
 除了改配置文件那行之外完全照抄[官方文档例子](https://guides.gradle.org/implementing-gradle-plugins/)，完美,
-然后发现这个任务确实也能改掉配置文件。所以说和gradle有什么关系，从手写到点一下确实是进步。
+然后发现这个任务确实也能改掉配置文件。
 
 ### 第二步
  
